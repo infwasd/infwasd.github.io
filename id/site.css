@@ -1,7 +1,7 @@
 body{
-background-color: #000;
+    background-color: #000;
 }
-.logo {
+.logo{
     width: 15em;
     position: relative;
     left: -200px;
