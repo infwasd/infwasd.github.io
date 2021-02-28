@@ -9,9 +9,10 @@
     padding:20px;
     font-weight:bold;
     border-radius:50%;
+    position:relative;
+    top: -100px;
 }
 .logo{
     text-align:center;
-    position:relative;
-    top: -100px;
+
 }
