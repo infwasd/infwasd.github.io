@@ -1,12 +1,11 @@
 body{
     background-color: #000;
 }
-.logo{
-    width: 15em;
-    position: relative;
-    left: -200px;
-    top -200px;
-    bottom: -150px; 
-    
-    
+.logo a{
+    text-decoration:none;
+    color:#fff;
+    size:40px;
+    font-family:Calibri;
+    border: 2px solid black;
+    box-shadow: 0,0,20;
 }
